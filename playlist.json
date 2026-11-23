@@ -1,5 +1,10 @@
 [
   {
+    "title": "Adamlar - Doldum...",
+    "src": "https://raw.githubusercontent.com/novaa-git/Mp3playlist/refs/heads/main/AD510015425.mp3",
+    "cover": "kapak1.jpg"
+  },
+  {
     "title": "That Summertime - Ray Danovan Series",
     "src": "https://raw.githubusercontent.com/novaa-git/Mp3playlist/refs/heads/main/ThatSummertime.mp3",
     "cover": "kapak1.jpg"
@@ -28,6 +33,5 @@
     "title": "Candan erçetin - Hayırsız",
     "src": "https://raw.githubusercontent.com/novaa-git/Mp3playlist/refs/heads/main/CE0102563201254.mp3",
     "cover": "kapak1.jpg"
-  },
-  
+  }
 ]
